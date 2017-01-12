@@ -95,6 +95,6 @@ Load assets on template views
 Create folder "assets" on your modular, put your"*.css/*.js" in "assets".
 
 ### Notice
-while reading the folder, the system of reading with sort by alphabetical order, so try to change naming files in "assets" to which file you first load.
+while reading the folder, the system of reading with sort by alphabetical order, so rename files in "assets" which file you first load.
 
 ## Thanks
